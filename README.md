@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">DayZ modder, scripter & tinkerer<br>*most of my time in the SDK or a terminal* 🛠️<br><br>Focused on readable, maintainable code 📖<br>Curious about tooling and modifications 🔧</p>
+<p align="left">
+  🎮 DayZ modder, scripter &amp; tinkerer<br>
+  🛠️ Most of my time in the SDK or a terminal<br>
+  <br>
+  📖 Focused on readable, maintainable code<br>
+  🔧 Curious about tooling and modifications
+</p>
 
 ###
 
