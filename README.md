@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  🎮 DayZ modder, scripter &amp; tinkerer<br>
+  🎮 Game modder &amp; tinkerer<br>
   🛠️ Most of my time in the SDK or a terminal<br>
   <br>
   📖 Focused on readable, maintainable code<br>
