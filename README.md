@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Daxolion" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Daxolion</h1>
-
 <p align="center">
   I spend most of my time modding <b>DayZ</b> &mdash; and now and then I script in whatever
   language the problem happens to need.<br>
@@ -25,8 +23,8 @@
 ### Currently
 
 - Building and maintaining mods for **DayZ**
-- Writing tooling that takes the tedious parts out of the workflow
 - Poking at anything that looks like it could be automated
+- I like automated systems a lot
 
 ---
 
@@ -41,6 +39,6 @@
 
 <p align="center">
   <a href="https://daxolion.de">
-    <img src="https://img.shields.io/badge/daxolion.de-1f2937?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Daxolion.Daxolion&" >
   </a>
 </p>
